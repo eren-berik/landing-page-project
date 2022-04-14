@@ -82,6 +82,15 @@ img {
   color: #f9faf8
 }
 
+.btn-sign-up.white {
+  width: 140px;
+  padding: 8px 30px;
+  border: 2px solid;
+  border-radius: 6px;
+  border-color: #f9faf8;
+  font-weight: 700;
+}
+
 .about-us {
   padding-top: 40px;
 }
@@ -141,4 +150,17 @@ img {
   display: flex;
   justify-content: end;
   font-weight: 600;
+}
+
+.sign-up-area {
+  margin: 50px 160px;
+  padding: 40px 40px;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 10px;
+  background-color: #3882f6;
+}
+
+.sign-up-text h3, p {
+  color: #f9faf8;
 }
